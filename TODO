@@ -4,4 +4,7 @@
 4) add pages with standart actions. (new edit index) use https://github.com/plataformatec/simple_form for forms
 and use for actions gem https://github.com/josevalim/inherited_resources
 
+For easy way use this short tasks:
+http://www.codequizzes.com/topics/3/quizzes/12
+
 P.S. not fogot about migrations.
