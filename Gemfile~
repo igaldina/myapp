@@ -31,7 +31,7 @@ gem "twitter-bootstrap-rails", "~> 2.2.7"
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
-gem 'bootstrap-sass'
+
 gem "devise"
 gem 'execjs'
 gem 'therubyracer'
