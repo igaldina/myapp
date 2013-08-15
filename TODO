@@ -1,3 +1,10 @@
-1. Make commit in this file.
-2. Add to .gitignore public directory and configure files.
-3. Add to repository full rails prodject.
+1) add twiiter-botstrap gem https://github.com/seyhunak/twitter-bootstrap-rails
+2) add DashboardController (set any content on page)
+3) add model User (use Device https://github.com/plataformatec/devise)
+4) add pages with standart actions. (new edit index) use https://github.com/plataformatec/simple_form for forms
+and use for actions gem https://github.com/josevalim/inherited_resources
+
+For easy way use this short tasks:
+http://www.codequizzes.com/topics/3/quizzes/12
+
+P.S. not fogot about migrations.
